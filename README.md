@@ -5,7 +5,7 @@
 <br> <hr>
 
 # Features
-<b> Layered Architecture:</b> *Separates the application into distinct layers: entity, dao, service, and controller.* <br>
+<b>Layered Architecture:</b> *Separates the application into distinct layers: entity, dao, service, and controller.* <br>
 <b>RESTful API:</b> *Provides endpoints to manage the Candidate entity.* <br>
 <b>Spring Boot Integration:</b> *Leverages Spring Boot for application management, dependency injection, and auto-configuration.* <br>
 <b>MySQL Database:</b> *Uses MySQL for persistent storage (can be swapped with other relational databases).* <br>
@@ -13,11 +13,11 @@
 <br> <hr>
 
 # Technologies Used
-<b><u>*Java 17* </u><br>
-<b><u> Spring Boot:</u></b> *For building and managing the application.* <br>
-<b><u>Hibernate ORM:</u></b> *For managing entity persistence.* <br>
-<b><u>MySQL:</u></b> *As the database (can be swapped with another relational database).* <br>
-<b><u>Maven:</u></b> *For project dependency management.* </p><br><hr>
+<u><b>*Java 17* <br></u>
+<b>Spring Boot:</b> For building and managing the application. <br>
+<b>Hibernate ORM:</b> For managing entity persistence. <br>
+<b>MySQL:</b> As the database (can be swapped with another relational database).<br>
+<b>Maven:</b> For project dependency management. </p><br><hr>
 
 
 *AppConfig.java: Contains Spring Boot configuration settings like Hibernate configurations, entity scanning, etc.<br>*
