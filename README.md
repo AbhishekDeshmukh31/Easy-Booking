@@ -12,7 +12,7 @@
 <b>Hibernate ORM:</b> *Handles object-relational mapping (ORM) for entities.* <br><hr>
 
 <b>Technologies Used</b>
-*Java 17* <br>
+Java 17 <br>
 Spring Boot: *For building and managing the application.* <br>
 Hibernate ORM: *For managing entity persistence.* <br>
 MySQL: *As the database (can be swapped with another relational database).* <br>
@@ -29,7 +29,8 @@ cd hotel-booking <br>*<hr>
 *server.port=8080<br>*<hr>
 
 <b>Step 2:Configure Database Connection</b> <br>
-*Update the application.properties file located in src/main/resources/ with your database connection details.<br>*
+*Update the application.properties file located in src/main/resources/ with your database connection details.<br>*<hr>
+
 <b>Example application.properties Configuration:</b><br>
 *Server Configuration : server.port=8080* <br><hr>
 
@@ -42,7 +43,7 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect <br>* <hr>
 
 <b>Hibernate Configuration <b><br>
 *spring.jpa.hibernate.ddl-auto=update <br>
-spring.jpa.show-sql=true <br>*
+spring.jpa.show-sql=true <br>*<hr>
 
 <b>Logging Configuration </b><br>
 *logging.level.org.springframework.web=DEBUG<br>
@@ -56,6 +57,6 @@ Run the Project:
 mvn spring-boot:run*<br><hr>
 
 # Contact Information <br>
-For further questions or support, feel free to reach out:<br>
- *Email:ad904108@.com*<br>
- *GitHub: AbhishekDeshmukh31*
+For further questions or support, feel free to reach out at :<br>
+*Email: ad904108@.com*<br>
+*GitHub: AbhishekDeshmukh31*
