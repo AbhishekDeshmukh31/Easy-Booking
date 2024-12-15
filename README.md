@@ -12,13 +12,12 @@
 <b>Hibernate ORM:</b> *Handles object-relational mapping (ORM) for entities.* <br>
 <br> <hr>
 
-# Technologies Used
-<b>*Java 17* <br>
-<b>Spring Boot</b>: For building and managing the application. <br>
-<b>Hibernate ORM</b>: For managing entity persistence. <br>
-<b>MySQL</b>: As the database (can be swapped with another relational database).<br>
-<b>Maven</b>: For project dependency management. </p><br><hr>
-
+## Technologies Used
+*Java 17* <br>
+Spring Boot: *For building and managing the application.* <br>
+Hibernate ORM: *For managing entity persistence.* <br>
+MySQL: *As the database (can be swapped with another relational database).* <br>
+Maven: *For project dependency management.* </p><br><hr>
 
 *AppConfig.java: Contains Spring Boot configuration settings like Hibernate configurations, entity scanning, etc.<br>*
 # Installation and Setup <br>
