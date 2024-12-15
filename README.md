@@ -1,7 +1,7 @@
 # EasyBooking (Hotel Booking) <br><hr>
 
 # Description
-*The Hotel Booking System is a Java-based application built using **Spring Boot** and **Hibernate** for managing hotel reservations. This system allows users to book rooms, view available rooms, and manage reservations and update booking details. The backend is exposed as a RESTful API, and Postman is used to test the API endpoints.*
+*The EasyBooking (Hotel Booking System) is a Java-based application built using **Spring Boot** and **Hibernate** for managing hotel reservations. This system allows users to book rooms, view available rooms, and manage reservations and update booking details. The backend is exposed as a RESTful API, and Postman is used to test the API endpoints.*
 <br> <hr>
 
 # Features
