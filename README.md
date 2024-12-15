@@ -23,27 +23,27 @@ Maven: *For project dependency management.* </p><br><hr>
 
 <b>Step 1: Clone the Repository <br></b>
 *git clone https://github.com/your-username/hotel-booking.git
-cd hotel-booking <br>*
-
+cd hotel-booking <br>*<hr>
 
 <b>Server Configuration <br></b>
-*server.port=8080<br>*
+*server.port=8080<br>*<hr>
 
 <b>Step 2:Configure Database Connection</b> <br>
 *Update the application.properties file located in src/main/resources/ with your database connection details.<br>*
 <b>Example application.properties Configuration:</b><br>
-*Server Configuration : server.port=8080* <br>
+*Server Configuration : server.port=8080* <br><hr>
 
 <b>Database Configuration (MySQL) </b><br>
 *spring.datasource.url=jdbc:mysql://localhost:3306/your_database <br>
 spring.datasource.username=username <br>
 spring.datasource.password=password <br>
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver <br>
-spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect <br>* 
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect <br>* <hr>
 
 <b>Hibernate Configuration <b><br>
 *spring.jpa.hibernate.ddl-auto=update <br>
 spring.jpa.show-sql=true <br>*
+
 <b>Logging Configuration </b><br>
 *logging.level.org.springframework.web=DEBUG<br>
 logging.level.org.hibernate.SQL=DEBUG*<br><hr>
