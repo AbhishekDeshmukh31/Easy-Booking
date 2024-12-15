@@ -4,12 +4,17 @@
 *The EasyBooking (Hotel Booking System) is a Java-based application built using **Spring Boot** and **Hibernate** for managing hotel reservations. This system allows users to book rooms, view available rooms, and manage reservations and update booking details. The backend is exposed as a RESTful API, and Postman is used to test the API endpoints.*
 <br><hr>
 
-<b>Features</b>
-<b>Layered Architecture:</b> *Separates the application into distinct layers: entity, dao, service, and controller.* <br>
-<b>RESTful API:</b> *Provides endpoints to manage the Candidate entity.* <br>
-<b>Spring Boot Integration:</b> *Leverages Spring Boot for application management, dependency injection, and auto-configuration.* <br>
-<b>MySQL Database:</b> *Uses MySQL for persistent storage (can be swapped with other relational databases).* <br>
-<b>Hibernate ORM:</b> *Handles object-relational mapping (ORM) for entities.* <br><hr>
+<b>Features</b><br>
+<b>Layered Architecture:</b> <br>
+*Separates the application into distinct layers: entity, dao, service, and controller.* <br>
+<b>RESTful API:</b> <br>
+*Provides endpoints to manage the Candidate entity.* <br>
+<b>Spring Boot Integration:</b> <br>
+*Leverages Spring Boot for application management, dependency injection, and auto-configuration.* <br>
+<b>MySQL Database:</b> <br>
+*Uses MySQL for persistent storage (can be swapped with other relational databases).* <br>
+<b>Hibernate ORM:</b><br>
+*Handles object-relational mapping (ORM) for entities.* <br><hr>
 
 <b>Technologies Used</b>
 Java 17 <br>
