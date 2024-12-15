@@ -13,11 +13,11 @@
 <br> <hr>
 
 # Technologies Used
-<b>*Java 17* <br>
-<b> Spring Boot:</b> *For building and managing the application.* <br>
-<b>Hibernate ORM:</b> *For managing entity persistence.* <br>
-<b>MySQL:</b> *As the database (can be swapped with another relational database).* <br>
-<b>Maven:</b> *For project dependency management.* </p><br><hr>
+<b><u>*Java 17* </u><br>
+<b><u> Spring Boot:</u></b> *For building and managing the application.* <br>
+<b><u>Hibernate ORM:</u></b> *For managing entity persistence.* <br>
+<b><u>MySQL:</u></b> *As the database (can be swapped with another relational database).* <br>
+<b><u>Maven:</u></b> *For project dependency management.* </p><br><hr>
 
 
 *AppConfig.java: Contains Spring Boot configuration settings like Hibernate configurations, entity scanning, etc.<br>*
